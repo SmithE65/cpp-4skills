@@ -2,8 +2,7 @@
 //
 
 #include <iostream>
-
-import PatientQueue;
+#include "PatientQueue.h"
 
 // forward declarations
 void print_menu();

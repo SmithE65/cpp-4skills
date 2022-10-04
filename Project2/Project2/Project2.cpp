@@ -4,6 +4,7 @@
 #include <iostream>
 #include <vector>
 #include <algorithm>
+#include <limits>
 #include <set>
 
 constexpr auto MAX_BOOKS = 10;
